@@ -26,6 +26,8 @@ composer require justinrainbow/json-schema
 
 ## Usage
 
+[See document](https://spacetelescope.github.io/understanding-json-schema/)
+
 ```php
 <?php
 
